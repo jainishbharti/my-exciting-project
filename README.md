@@ -10,8 +10,12 @@ Download & Install the latest version of API in your system.<br/>
 For API testing purposes better use postman with the provided endpoints in the Documentation.<br/>
 For using it in any WebApplications, design a front end and ensure that you're sending requests on true endpoints and handling every reponses.
 
+`cd my-exciting-project`
+Execute the app.run()
+
 #### Some Pre-Requisites
 Python3<br/>
+ASGI Server<br/>
 Postman<br/>
 Hands on working with Flask<br/>
 Uvicorn Basics<br/>
